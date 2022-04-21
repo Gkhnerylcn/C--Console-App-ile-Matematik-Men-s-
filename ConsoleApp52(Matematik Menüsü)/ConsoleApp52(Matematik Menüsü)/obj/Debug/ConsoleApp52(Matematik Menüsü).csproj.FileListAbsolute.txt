@@ -1,0 +1,7 @@
+C:\Users\casper\source\repos\ConsoleApp52(Matematik Menüsü)\ConsoleApp52(Matematik Menüsü)\bin\Debug\ConsoleApp52(Matematik Menüsü).exe.config
+C:\Users\casper\source\repos\ConsoleApp52(Matematik Menüsü)\ConsoleApp52(Matematik Menüsü)\bin\Debug\ConsoleApp52(Matematik Menüsü).exe
+C:\Users\casper\source\repos\ConsoleApp52(Matematik Menüsü)\ConsoleApp52(Matematik Menüsü)\bin\Debug\ConsoleApp52(Matematik Menüsü).pdb
+C:\Users\casper\source\repos\ConsoleApp52(Matematik Menüsü)\ConsoleApp52(Matematik Menüsü)\obj\Debug\ConsoleApp52(Matematik Menüsü).csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\ConsoleApp52(Matematik Menüsü)\ConsoleApp52(Matematik Menüsü)\obj\Debug\ConsoleApp52(Matematik Menüsü).csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\ConsoleApp52(Matematik Menüsü)\ConsoleApp52(Matematik Menüsü)\obj\Debug\ConsoleApp52(Matematik Menüsü).exe
+C:\Users\casper\source\repos\ConsoleApp52(Matematik Menüsü)\ConsoleApp52(Matematik Menüsü)\obj\Debug\ConsoleApp52(Matematik Menüsü).pdb
